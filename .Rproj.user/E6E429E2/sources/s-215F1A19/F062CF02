@@ -1,0 +1,24 @@
+{
+    "id": "F062CF02",
+    "path": "~/TP1_Shiny/TP1_Shiny_Ex2/ui.R",
+    "project_path": "TP1_Shiny_Ex2/ui.R",
+    "type": "r_source",
+    "hash": "1883314473",
+    "contents": "",
+    "dirty": false,
+    "created": 1639401386374.0,
+    "source_on_save": false,
+    "relative_order": 1,
+    "properties": {
+        "cursorPosition": "52,29",
+        "scrollLine": "35"
+    },
+    "folds": "",
+    "lastKnownWriteTime": 1639401645,
+    "encoding": "UTF-8",
+    "collab_server": "",
+    "source_window": "",
+    "last_content_update": 1639401645722,
+    "read_only": false,
+    "read_only_alternatives": []
+}
